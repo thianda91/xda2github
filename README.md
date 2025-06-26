@@ -4,6 +4,8 @@
 
 为 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 用户打造的 GitHub 加速代理服务，基于免费且强大的 [Deno Deploy](https://deno.com/deploy) 平台。
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ## 你是否遇到过这种情况？
 
 > *   在服务器上部署了心爱的 AstrBot
